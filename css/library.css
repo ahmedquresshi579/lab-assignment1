@@ -1,4 +1,11 @@
 body { font-family: Arial, sans-serif; }
+<<<<<<< HEAD
 h1 { color: #333; }/* Library page styles */
 /* Library page styles */
 body { background-color: #ffffff; }
+=======
+h1 { color: #333; }
+/* Library page styles */
+/* Library page styles */
+body { background-color: #000000; }
+>>>>>>> feature/issue#9
