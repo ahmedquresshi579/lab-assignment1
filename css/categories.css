@@ -1,2 +1,3 @@
 body { font-family: Arial, sans-serif; }
-h1 { color: #333; }
+h1 { color: #333; }/* Categories page styles */
+ul { list-style: none; padding: 0; }
